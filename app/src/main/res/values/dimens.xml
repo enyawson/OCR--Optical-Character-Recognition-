@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--margin between image and surrounding text view-->
+    <dimen name="top_margin">8dp</dimen>
+    <!--top padding-->
+    <dimen name="top_padding">8dp</dimen>
+    <!--margin between root view group and surrounding component-->
+    <dimen name="layout_margin">8dp</dimen>
+
+
+</resources>

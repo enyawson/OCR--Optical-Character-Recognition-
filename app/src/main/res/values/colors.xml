@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="small_image_layout">#5b39c6</color>
+    <color name="matched_layout">#0009ff</color>
+    <color name="black_text_color">#000000</color>
+
+
+    <color name="item_background">#efefef</color>
+    //drawable image color
+    <color name="colorDrawable">#e9e9e9</color>
+    <color name="colorDrawableImage">#706F6F</color>
+
+
+
+
+</resources>
